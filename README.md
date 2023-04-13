@@ -3,7 +3,7 @@
 I'm Veit, Veit Progl. Since I'm 16 year old (my oldest git repo) I develop webpages and moblie apps.
 
 ### My current side project
-Biblogy (ex Booer): https://github.com/booerApp
+Biblogy (ex Booer): [https://github.com/booerApp](https://github.com/Biblogy)
 
 ### Old Side Projects:
 LogBot 
