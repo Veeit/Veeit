@@ -7,8 +7,11 @@ GrowGuard: [https://github.com/12Month12Apps/GrowGuard](https://github.com/12Mon
 
 ### Old Side Projects:
 Biblogy: [https://github.com/booerApp](https://github.com/Biblogy)
+
 LogBot 
+
 Some more apps that are not public :) 
+
 WWDC Projcets 2018, 19 and 20 (you can find videos for the projects in the readme)
 
 ### My webpage:
