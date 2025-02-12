@@ -3,7 +3,8 @@
 I'm Veit, Veit Progl. Since I'm 16 year old (my oldest git repo) I develop webpages and moblie apps.
 
 ### My current side project
-FOM-Mobile App 
+FOM-Mobile App - App to make the life of me as a student a bit less stressfull 
+
 GrowGuard: [https://github.com/12Month12Apps/GrowGuard](https://github.com/12Month12Apps/GrowGuard)
 
 ### Old Side Projects:
